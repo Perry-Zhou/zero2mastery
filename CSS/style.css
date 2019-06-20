@@ -7,13 +7,28 @@ body {
     background-size: cover;
 }
 
-h2 + p:hover {
+h2 + p {
     color: rgb(58, 50, 50);
     text-align: center;
     border: 5px solid rgb(168, 100, 91);
     cursor: pointer;
 }
+p {
+    text-transform: uppercase;
+    line-height: 5px
+    font-style: italic;
+    font-weight: bold;
+    font-size: 100%;
+    font-family: "poiret one", "Times New Roman";
+}
 
+img {
+    float: right;
+}
+footer {
+    clear: both;
+    text-align: center;
+}
 h2 {
     color: pink;
 }
