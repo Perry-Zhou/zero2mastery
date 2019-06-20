@@ -2,13 +2,11 @@ h2 {
     color: blue;
 }
 
-.boxmodel {
-    border: 5px solid red;
-    display: inline-block;
-    padding: 5px 10px 15px 20px;
-    margin: 0PX 20PX;
-    width: 33px;
-    height: 55px;
+p {
+    font-size: 20px;
 }
 /* Padding works From the TOP CLOCKWISE. TOP RIGHT BOTTOM LEFT */
 
+span {
+    font-size: 2rem;
+}
