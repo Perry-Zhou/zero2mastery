@@ -1,0 +1,12 @@
+h2 {
+    color: blue;
+}
+
+p {
+    font-size: 20px;
+}
+/* Padding works From the TOP CLOCKWISE. TOP RIGHT BOTTOM LEFT */
+
+span {
+    font-size: 2rem;
+}
