@@ -13,18 +13,21 @@ body {
   background-size: cover;
 }
 
-#div1 {
+/* #div1 {
   display: flex;
   justify-content: flex-end;
-}
+} */
 
 .container {
   display: flex;
-  text-align: center; 
-  
+  justify-content: center;
+  align-items: center;
+
 }
 
 p {
   display: flex;
+  justify-content: center;
+  align-items: center;
   color: red;
 }
